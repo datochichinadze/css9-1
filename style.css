@@ -1422,6 +1422,8 @@ main {
     }
 
 
+    
+
     .lastheaderClass {
         display: none;
     }
@@ -1429,8 +1431,7 @@ main {
 
     header {
         background-color: #FFF;
-        display: flex;
-        align-items: center;
+        display: none;
     }
 
 
@@ -1555,8 +1556,7 @@ main {
 
     header {
         background-color: #FFF;
-        display: flex;
-        align-items: center;
+        display: none;
     }
 
 
