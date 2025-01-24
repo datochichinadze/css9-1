@@ -232,6 +232,7 @@ main {
     flex-direction: column;
     gap: 32px;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 
@@ -744,6 +745,7 @@ main {
     display: flex;
     gap: 22px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 
@@ -1635,6 +1637,7 @@ main {
     .mainsecondolldiv {
         display: flex;
         flex-direction: column-reverse;
+        align-items: center;
 
     }
 
